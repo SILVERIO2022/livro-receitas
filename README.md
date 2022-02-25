@@ -3,5 +3,5 @@
 Olá, bem vindo ao livro de Receitas :handshake:
 
 - Strogonoff de Frango
-
 - Pavê
+- Galinhada
